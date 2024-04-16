@@ -2,10 +2,10 @@
 
 ## Trouble Ticket #1
 
-Problem
+### Problem
 - R2 and R3 are unable to form an IBGP neighbor relationship. 
 
-Desired outcome
+### Desired outcome
 - Configure the network so that R2 and R3 form an IBGP neighbor relationship.
 - Do not remove any configuration on either routerto restore connectivity.  
 
